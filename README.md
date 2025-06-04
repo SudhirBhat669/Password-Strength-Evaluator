@@ -1,11 +1,9 @@
 # Password-Strength-Evaluator
 
 ## 📸 GUI Screenshot
-![Image](https://github.com/user-attachments/assets/6a932716-47c1-46b8-876b-63aadafc0be3)
 ![GUI](gui_dashboard_screenshot.png)
 
 ## 📈 Graph Output
-![Image](https://github.com/user-attachments/assets/97efb1f7-7551-4a3b-9fc9-e7cde9df2f73)
 ![Graph](password_strength_graph.png)
 
 ## 🎯 Objective
