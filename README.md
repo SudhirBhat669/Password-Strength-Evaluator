@@ -40,7 +40,7 @@ ML model training
 ## Tips Learned
 Small changes like adding symbols significantly improve strength. Use online tools to validate strength before use.
 
-## 💬 Interview Questions & Answers
+## 💬 Interview Questions 
 1. What makes a password strong? 
 2. What is a brute-force attack? 
 3. What is a dictionary attack? 
